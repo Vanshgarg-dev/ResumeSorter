@@ -5,6 +5,8 @@ Our resume sorter project is an innovative solution designed to streamline the r
 ## Authors
 
 -[@Vanshgarg-dev](https://www.github.com/Vanshgarg-dev)
+-[@harshitd04](https://github.com/harshitd04)
+
 
 ## Acknowledgements
 
